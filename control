@@ -1,0 +1,13 @@
+Package: me.qusic.kaze
+Name: Kaze
+Version: 1.0.1
+Section: Tweaks
+Description: Quick Switcher and Hot Corners
+Depends: mobilesubstrate, preferenceloader, applist
+Priority: optional
+Architecture: iphoneos-arm
+Author: Qusic <hi@qusic.me>
+Maintainer: Qusic <hi@qusic.me>
+Sponsor: Qusic <hi@qusic.me>
+Icon: file:///Library/PreferenceBundles/KazePreferences.bundle/Kaze.png
+Tag: purpose::extension

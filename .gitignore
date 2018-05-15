@@ -1,0 +1,5 @@
+.theos
+obj
+packages
+*.swp
+.DS_Store

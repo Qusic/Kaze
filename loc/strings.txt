@@ -1,0 +1,28 @@
+[[Kaze]]
+  [CREDIT]
+    en = Coded by Qusic & Designed by Sentry
+    zh_CN = 由 Qusic 编码 & 由 Sentry 设计
+  [INSTRUCTION]
+    en = Pull up from the bottom left corner of the screen to access Quick Switcher, then release your finger downwards to switch to the selected app, or optionally upwards to access the original app switcher.\nPull up from the bottom right corner of the screen to invoke Hot Corners to return to the home screen or lock the device.
+    zh_CN = 从屏幕左下角上划来打开快速应用切换器，然后向下松开来切换到选中的应用，或者可选地向上松开来打开原始应用切换器。\n从屏幕右下角上划来使用手势热角回到主屏幕或锁定屏幕。
+  [SHARE_TEXT]
+    en = I'm loving #Kaze by @QusicS @Sentry_NC!
+    zh_CN = 我很喜欢来自 @QusicS @Sentry_NC 的 #Kaze ！
+  [QUICKSWITCHER]
+    en = Quick Switcher
+    zh_CN = 快速应用切换器
+  [HOTCORNERS]
+    en = Hot Corners
+    zh_CN = 手势热角
+  [ACCESS_APP_SWITCHER]
+    en = Access App Switcher
+    zh_CN = 打开原始应用切换器
+  [DISABLE_LOCK_GESTURE]
+    en = Disable Lock Gesture
+    zh_CN = 禁用锁屏手势
+  [INVERT_HOT_CORNERS]
+    en = Invert Hot Corners
+    zh_CN = 交换左右手势热角
+  [DISABLE_IN_APPS]
+    en = Disable in Apps
+    zh_CN = 在指定应用中禁用

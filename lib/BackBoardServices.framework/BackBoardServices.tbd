@@ -1,0 +1,13 @@
+---
+archs:           [ armv7, armv7s, arm64 ]
+platform:        ios
+install-name:    /System/Library/PrivateFrameworks/BackBoardServices.framework/BackBoardServices
+current-version: 1.0.0
+compatibility-version: 1.0.0
+objc-constraint: none
+exports:         
+  - archs:           [ armv7, armv7s, arm64 ]
+    symbols:         [ _BKSHIDServicesSetBacklightFactorWithFadeDuration ]
+    objc-classes:    [ ]
+    objc-ivars:      [ ]
+...
