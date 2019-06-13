@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <CaptainHook.h>
+#import <CaptainHook/CaptainHook.h>
 
 typedef void (^UIViewAnimationActionsBlock)(void);
 typedef void (^UIViewAnimationCompletionBlock)(BOOL finished);
